@@ -1,0 +1,6 @@
+D:\Programming\Games\FallFromAbove\FallFromAbove\obj\Debug\FallFromAbove.csprojAssemblyReference.cache
+D:\Programming\Games\FallFromAbove\FallFromAbove\bin\Debug\FallFromAbove.exe.config
+D:\Programming\Games\FallFromAbove\FallFromAbove\bin\Debug\FallFromAbove.exe
+D:\Programming\Games\FallFromAbove\FallFromAbove\bin\Debug\FallFromAbove.pdb
+D:\Programming\Games\FallFromAbove\FallFromAbove\obj\Debug\FallFromAbove.exe
+D:\Programming\Games\FallFromAbove\FallFromAbove\obj\Debug\FallFromAbove.pdb

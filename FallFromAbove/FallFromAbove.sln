@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallFromAbove", "FallFromAbove.csproj", "{C92CEBD8-8DAF-4C9B-AA82-60A3CFCDBE32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C92CEBD8-8DAF-4C9B-AA82-60A3CFCDBE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C92CEBD8-8DAF-4C9B-AA82-60A3CFCDBE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C92CEBD8-8DAF-4C9B-AA82-60A3CFCDBE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C92CEBD8-8DAF-4C9B-AA82-60A3CFCDBE32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2751EF14-564D-4C3E-9D8D-7B022146CCE9}
+	EndGlobalSection
+EndGlobal
